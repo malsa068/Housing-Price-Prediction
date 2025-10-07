@@ -37,6 +37,3 @@ I removed the "furnishing status" column because it wasn't adding much value to 
 - **Scikit-learn** for the machine learning
 - **Matplotlib & Seaborn** for visualizations
 - **Jupyter Notebook** to keep it all organized
-
-  Results
-The model gets an R² score of 0.636, which means it can predict about 64% of the price variation. The prediction vs actual plot shows most points clustering near the "perfect fit" line, though there's definitely room for improvement!
